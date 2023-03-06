@@ -1,0 +1,1 @@
+script which allows any and all scripts written in a windows system to be turned into a root script
